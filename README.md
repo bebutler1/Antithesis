@@ -5,4 +5,4 @@ Here are a few screenshots:
 
 ![Home Screen](./screenshots/Home.png)
 ![Menu Screen](./screenshots/Menu.png)
-![Entry Screen](./screenshots/Entry.png)
+![Entry Screen](./screenshots/entry-smaller.png)
