@@ -24,7 +24,7 @@ You can Log Your Data…
 Yep, simply visit the ‘Make an Entry’ page, and follow the form to enter your data. 
 
 ## Installation
-Installation is pretty simple, just download the latest release, extract the files from the zip, and run the Install.exe file. It will take care of the rest. Install.exe is programmed to run all of the necessary operations.
+Installation is pretty simple, just download the latest release, extract the files from the zip, and run the Install.exe file. It will take care of the rest. Install.bat is programmed to run all of the necessary operations.
 I hope you all enjoy.
 
 ## About Updates...
