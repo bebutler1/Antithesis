@@ -1,5 +1,5 @@
 # Antithesis
-A simple, easy to use, match logging application for League of Legends players. Know you Nemesis, and become their Antithesis.
+A simple, easy to use, match logging application for League of Legends players. Know your Nemesis, and become their Antithesis.
 
 Here are a few screenshots:
 
